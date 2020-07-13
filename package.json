@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lennyrouanet/css3-reset.git"
+    "url": "git+https://github.com/frontello/css3-reset.git"
   },
   "author": "Lenny ROUANET",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lennyrouanet/css3-reset/issues"
+    "url": "https://github.com/frontello/css3-reset/issues"
   },
-  "homepage": "https://github.com/lennyrouanet/css3-reset#readme"
+  "homepage": "https://github.com/frontello/css3-reset#readme"
 }
