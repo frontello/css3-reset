@@ -1,7 +1,7 @@
 {
   "name": "css3-reset",
   "version": "1.0.1",
-  "description": "CSS3 reset",
+  "description": "CSS-3 reset",
   "main": "reset.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
